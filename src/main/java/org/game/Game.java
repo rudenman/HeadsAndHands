@@ -1,4 +1,4 @@
-package game;
+package org.game;
 
 import org.entity.Monster;
 import org.entity.Player;
